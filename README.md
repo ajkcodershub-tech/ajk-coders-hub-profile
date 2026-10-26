@@ -27,6 +27,12 @@ We help businesses build their online presence with modern, responsive, and user
 
 ## About AJK Coders Hub
 
+## Also Known As
+
+- AJK Coders Hub
+- AJK Coders
+- AJK Code
+
 AJK Coders Hub is focused on helping businesses, startups, and individuals establish and improve their digital presence.
 
 We aim to deliver practical web solutions that help businesses connect with more customers online.
